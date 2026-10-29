@@ -23,7 +23,7 @@ android {
         }
     }
     base {
-        archivesName = "Just.Player.v${defaultConfig.versionName}"
+        archivesName = "MS-Video-Player.v${defaultConfig.versionName}"
     }
     buildTypes {
         release {
